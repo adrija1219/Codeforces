@@ -15,8 +15,8 @@ I aim to solve at least one problem per day to maintain consistency.
 * **Automation:** Python scripts for directory management
 
 ## 📈 Recent Activity
-* **Current Streak:** 1 day
-* **Total Solved:** 1
+* **Current Streak:** 30 day
+* **Total Solved:** 30
 
 ## 📜 How to use this Repo
 1. **Clone the repo:** `git clone https://github.com/yourusername/codeforces-solutions.git`
